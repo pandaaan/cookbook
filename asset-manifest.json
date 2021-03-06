@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9463052b.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.979a5aa2.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.979a5aa2.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.8f89723c.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.8f89723c.js.map",
-    "static/css/2.84b3ebfc.chunk.css": "/react-gh-pages/static/css/2.84b3ebfc.chunk.css",
-    "static/js/2.4e9e6352.chunk.js": "/react-gh-pages/static/js/2.4e9e6352.chunk.js",
-    "static/js/2.4e9e6352.chunk.js.map": "/react-gh-pages/static/js/2.4e9e6352.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.ccca50c3b8b57026e676915e2d83983b.js": "/react-gh-pages/precache-manifest.ccca50c3b8b57026e676915e2d83983b.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.84b3ebfc.chunk.css.map": "/react-gh-pages/static/css/2.84b3ebfc.chunk.css.map",
-    "static/css/main.9463052b.chunk.css.map": "/react-gh-pages/static/css/main.9463052b.chunk.css.map",
-    "static/js/2.4e9e6352.chunk.js.LICENSE": "/react-gh-pages/static/js/2.4e9e6352.chunk.js.LICENSE"
+    "main.css": "/cookbook/static/css/main.9463052b.chunk.css",
+    "main.js": "/cookbook/static/js/main.11b806ff.chunk.js",
+    "main.js.map": "/cookbook/static/js/main.11b806ff.chunk.js.map",
+    "runtime-main.js": "/cookbook/static/js/runtime-main.d409d83a.js",
+    "runtime-main.js.map": "/cookbook/static/js/runtime-main.d409d83a.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/cookbook/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.593c42d5.chunk.js": "/cookbook/static/js/2.593c42d5.chunk.js",
+    "static/js/2.593c42d5.chunk.js.map": "/cookbook/static/js/2.593c42d5.chunk.js.map",
+    "index.html": "/cookbook/index.html",
+    "precache-manifest.1713866ba93dea06d5c4dd2040d88a4d.js": "/cookbook/precache-manifest.1713866ba93dea06d5c4dd2040d88a4d.js",
+    "service-worker.js": "/cookbook/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/cookbook/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.9463052b.chunk.css.map": "/cookbook/static/css/main.9463052b.chunk.css.map",
+    "static/js/2.593c42d5.chunk.js.LICENSE": "/cookbook/static/js/2.593c42d5.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f89723c.js",
-    "static/css/2.84b3ebfc.chunk.css",
-    "static/js/2.4e9e6352.chunk.js",
+    "static/js/runtime-main.d409d83a.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.593c42d5.chunk.js",
     "static/css/main.9463052b.chunk.css",
-    "static/js/main.979a5aa2.chunk.js"
+    "static/js/main.11b806ff.chunk.js"
   ]
 }
